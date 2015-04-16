@@ -1,0 +1,16 @@
+bibentry("article",
+         title = "{Removing technical variability in RNA-seq data using conditional quantile normalization}",
+         author = c(person(c("Kasper", "D."), "Hansen"),
+         person(c("Rafael", "A."), "Irizarry"),
+         person("Zhijin", "Wu")),
+         year = 2012,
+	 journal = "Biostatistics",
+	 volume = "13",
+	 number = "2",
+	 pages = "204--216",
+         textVersion = 
+         paste("KD Hansen, RA Irizarry, and Z Wu,",
+               "Removing technical variability in RNA-seq data using conditional quantile normalization.",
+               "Biostatistics", "2012 vol. 13(2) pp. 204-216."),
+         mheader = "To cite CQN in publications use:"
+         )
